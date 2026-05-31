@@ -1,2 +1,2 @@
 # nirajan-luitel
-nirajan luitel portfilio
+nirajan luitel portfolio 
