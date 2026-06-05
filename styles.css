@@ -96,31 +96,10 @@ textarea {
     padding: 5rem 0;
 }
 
-.hero {
-    padding-top: 2rem;
-}
 
-.hero-grid {
-    display: grid;
-    gap: 2rem;
-    align-items: center;
-    grid-template-columns: minmax(0, 1.1fr) 420px;
-}
 
-.eyebrow {
-    margin: 0 0 1rem;
-    color: var(--primary);
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    font-size: 0.85rem;
-}
 
-.hero-copy h1 {
-    margin: 0;
-    font-size: clamp(3rem, 4vw, 4.5rem);
-    line-height: 0.95;
-}
+
 
 .intro {
     margin: 1.5rem 0;
